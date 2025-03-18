@@ -3,33 +3,32 @@ SE_Day1_Assignment
 
 #Part 1: Introduction to Software Engineering
 
-1.Explain what software engineering is and discuss its importance in the technology industry
+# 1.Explain what software engineering is and discuss its importance in the technology industry
 software engineering is a branch of computer science used for developing, testing and maintaining software.
 reliability- it ensures software performs as expected without bias especially for critical applications like healthcare ,finance. 
 efficiency - it helps to optimize developer workflow while maintaining high quality standards.
  scalability and flexibility - it ensures that the system can handle an increased load without affecting performance.
  security - implement protection practice like authentication, authorization and encryption to secure users information. Identify and describe at least three key milestones in the evolution of software engineering.
 
-
-2.Identify and describe at least three key milestones in the evolution of software engineering.  
+# 2.Identify and describe at least three key milestones in the evolution of software engineering.  
 .mastering complexity
 Mastering process
 Mastering machine
 
 
-List and briefly explain the phases of the Software Development Life Cycle.
+# 3.List and briefly explain the phases of the Software Development Life Cycle.
  planning - identify the software requirement or purpose and scope.
  requirement analysis - identify the final user specification. 
 design - building the framework. 
 coding - converting software design into tangible code.
  testing - examine the software for any bugs and glitches
-Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+ 
+# 4.Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 waterfall methodology - Linear and sequential, each phase is completed before moving on. 
 - there is Low flexibility,
  changes are hard to incorporate once a phase is complete.
  - Customer feedback comes late, after the product is developed.
  - Testing is done at the end of the development process.
-
 
 agile methodology - Iterative and incremental, with multiple cycles (sprints). 
 - High flexibility, adapts to changing requirements. 
@@ -37,7 +36,7 @@ agile methodology - Iterative and incremental, with multiple cycles (sprints).
 - Testing is continuous and done after each iteration.
 
 
-Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+# 5.Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 Software Developer - developing applications,programs and systems using programming languages and frameworks.
  - maintaining and updating software to keep it functional. 
 - collaborating with other team members to ensure best practice when developing software.
@@ -54,7 +53,7 @@ Project Manager - assembles and lead the software development team.
  - deliver the complete software to the client and regularly check its performance.
 
 
-Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+# 6.Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 An integrated development environment (IDE) is a software platform that facilitates the creation of other software applications by providing a space to write, compile, and debug code, sometimes with value-adding tools that reduce development efforts. eg Visual Studio Code (VSCode)
 importance:
 Programming languages have rules for how statements must be structured. Because an IDE knows these rules, it contains many intelligent features for automatically writing or editing the source code.
@@ -72,7 +71,7 @@ Change Tracking: Records detailed history of changes, allowing easy analysis of 
 -Branching and Merging: Supports creating branches for new features and merging them back into the main code.
 Error Recovery: Allows reverting to previous versions if new changes introduce errors
 
-What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+# 7.What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 -rapid technological advancement places considerable pressure on software engineers to stay current.
  Solution: adopting continuous learning practices and using agile methodologies to adapt to emerging trends, keeping their skills sharp in an ever-evolving industry. -
 Time Constraints - Software engineering is a demanding and time-intensive field, often requiring engineers to work under high pressure to meet tight deadlines.
@@ -86,7 +85,7 @@ Solution: research ways to defend against hacking, malware, phishing, insider an
 Software Accessibility and Usability - Overly complex software can frustrate or confuse users. 
 Solution: Use scalable architecture, Emphasize reliability.
 
-Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+# 8.Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 Unit tests - are close to the source of an application, They consist in testing individual methods and functions of the classes, components, or modules used by your software. - it ensures that each unit performs its intended function correctly, isolated from other components.
  Integration tests - verify that different modules or services used by your application work well together.
  - help to ensure data flows smoothly between modules and interfaces work as expected.
@@ -96,14 +95,14 @@ Acceptance tests - are formal tests that verify if a system satisfies business r
 - Whether the software meets the needs of the end-user and is ready for deployment.
 #Part 2: Introduction to AI and Prompt Engineering
 
-Define prompt engineering and discuss its importance in interacting with AI models.
+# 9.Define prompt engineering and discuss its importance in interacting with AI models.
  prompt engineering  is the process where you guide generative AI solutions to generate desired outputs.
 Importance:
 Improved user experience - Prompt engineering makes it easy for users to obtain relevant results in the first prompt. It helps mitigate bias that may be present from existing human bias in the large language models’ training data.
 Increased flexibility - A prompt engineer can create prompts with domain-neutral instructions highlighting logical links and broad patterns.
 developer control - Prompt engineering gives developers more control over users' interactions with the AI. Effective prompts provide intent and establish context to the large language models. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise.
 
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+# 9.Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Draw a picture of a person
 Draw a full-body portrait of a young woman with long brown hair, wearing a red jacket and blue jeans, standing in a park on a sunny day with trees and grass in the background.
 Clarity: The improved prompt specifies what is being asked (a full-body portrait) rather than just a "person.
